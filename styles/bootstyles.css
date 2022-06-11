@@ -1,0 +1,64 @@
+.common{
+    text-align: center;
+    position: static;
+}
+
+.navigation1{
+    height: 50px;
+    background-color: azure;
+    line-height: 50px;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.navigation{
+    height: 100px;
+    background-color: lightpink;
+    line-height: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.tableau{
+    background-color: white;
+    text-align: center;
+    width: 40%;
+    padding: 67px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subheading{
+    font-size: 25px;
+}
+.tableauPlaceholder{
+    text-align: center;
+}
+
+a{
+    color: black;
+    border: 5px;
+    text-align: left;
+}
+
+a:hover{
+    color: palevioletred;
+    font-size: 45px;
+}
+
+
+.footer{
+    position: absolute;
+    position: static;
+    border-bottom: 0;
+    text-align: center;
+    background-color: azure;
+
+}
+
+img{
+    width: 25%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
